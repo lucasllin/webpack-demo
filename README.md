@@ -4,3 +4,5 @@
 ------------------------------------
 3.yarn add webpack-dev-server --dev
 4.yarn add nodemon --dev (optional)
+-------------------------------------
+5.yarn add webpack-merge --dev
