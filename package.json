@@ -1,0 +1,12 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/raisingsand/webpack-demo.git",
+  "author": "Oliver Grey <2293560686@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.8.1",
+    "webpack-cli": "^2.1.3"
+  }
+}
