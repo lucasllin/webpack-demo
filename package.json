@@ -5,7 +5,11 @@
   "repository": "https://github.com/raisingsand/webpack-demo.git",
   "author": "Oliver Grey <2293560686@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack --model production"
+  },
   "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
     "webpack": "^4.8.1",
     "webpack-cli": "^2.1.3"
   }
